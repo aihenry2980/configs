@@ -12,4 +12,4 @@ set showmode
 set showmatch
 set cursorline
 set relativenumber
-
+set guifont=Cascadia\ Code:h12
