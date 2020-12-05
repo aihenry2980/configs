@@ -3,4 +3,4 @@ pacman -S mingw-w64-x86_64-llvm
 pacman -S mingw-w64-x86_64-isl
 pacman -S mingw-w64-x86_64-lld
 pacman -S mingw-w64-x86_64-arm-none-eabi-binutils
-pacman -S mingw-w64-x86_64-arm-none-eabi-gdbit make
+pacman -S mingw-w64-x86_64-arm-none-eabi-gdbit
