@@ -1,19 +1,6 @@
-pacman -S mingw-w64-x86_64-isl
-pacman -S mingw-w64-x86_64-gcc-ada
-pacman -S cmake
-pacman -S flex
-pacman -S lex
-pacman -S perl
-pacman -S texinfo
-pacman -S tclsh
-pacman -S tlcsh
-pacman -S csh
-pacman -S openssl
-pacman -S openssh
-pacman -S gcc
+pacman -S cmake flex perl texinfo csh openssl openssh gcc dejagnu bison git make
 pacman -S mingw-w64-x86_64-llvm
 pacman -S mingw-w64-x86_64-isl
 pacman -S mingw-w64-x86_64-lld
 pacman -S mingw-w64-x86_64-arm-none-eabi-binutils
-pacman -S mingw-w64-x86_64-arm-none-eabi-gdb
-pacman -S dejagnu bison git make
+pacman -S mingw-w64-x86_64-arm-none-eabi-gdbit make
